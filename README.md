@@ -64,7 +64,7 @@ pip install discord.py google-genai
 ## Przegląd plików
 
 ### config.py
-Zawiera wszystkie ustawienia bota, które można łatwo modyfikować bez ingerencji w główny kod.[10]
+Zawiera wszystkie ustawienia bota, które można łatwo modyfikować bez ingerencji w główny kod.
 
 ### main.py
 Główny plik zawierający logikę bota Discord i integrację z API Google Gemini.
